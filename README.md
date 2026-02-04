@@ -94,7 +94,7 @@ Then you click:
 
 ### 1) Clone the project
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/seyyednavid/cold-sales-email-agent.git
 cd YOUR_REPO_NAME
 ```
 
@@ -155,9 +155,6 @@ Emails are sent using the Resend API.
 
 
 
-### ⚠️ Disclaimer
 
-This project is for educational/demo purposes.
-Do not use it to spam users or violate email marketing laws (GDPR, CAN-SPAM).
 
 
